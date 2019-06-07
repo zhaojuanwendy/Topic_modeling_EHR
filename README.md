@@ -1,5 +1,3 @@
-# Topic_modeling_EHR
-
 # Subphenotyping with a topic modeling approach: non-negative matrix factorization (NMF) and EHR
 
 This is the source code of paper
